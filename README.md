@@ -10,10 +10,10 @@ Så om man inte själv vill laga sina grafiker kan man ladda ner dom på unitys 
 Många kostar men det finns en hel del gratis också. 
 
 exempel på assets
-[1](https://assetstore.unity.com/packages/tools/physics/silantro-helicopter-simulator-toolkit-142612);
-[2](https://assetstore.unity.com/packages/2d/gui/ui-kit-pro-huge-bundle-203543);
-[3](https://assetstore.unity.com/packages/2d/textures-materials/free-christmas-gift-from-blink-2021-209810);
-[4](https://assetstore.unity.com/packages/2d/characters/enemy-galore-1-pixel-art-208921);
+[1](https://assetstore.unity.com/packages/tools/physics/silantro-helicopter-simulator-toolkit-142612)
+[2](https://assetstore.unity.com/packages/2d/gui/ui-kit-pro-huge-bundle-203543)
+[3](https://assetstore.unity.com/packages/2d/textures-materials/free-christmas-gift-from-blink-2021-209810)
+[4](https://assetstore.unity.com/packages/2d/characters/enemy-galore-1-pixel-art-208921)
 [5](https://assetstore.unity.com/packages/2d/textures-materials/sky/20-stylized-skies-pack-179742) 
 
 # Unitys Hemsida
@@ -31,6 +31,14 @@ Länkar för unitys sidor
 
 # Colliders
 
+Man kan skapa colliders för objekt i unity. Det betyder att om man har en spelare utan en collider går den igenom väggar
+men om man sätter t.ex en box collider på spelaren och väggen så krockar dom. 
+
+[1](https://www.youtube.com/watch?v=S0MXZ6AXzTE)
+[2](https://www.youtube.com/watch?v=bh9ArKrPY8w)
+[3](https://www.youtube.com/watch?v=ms6r59X6rRc)
+[4](https://www.youtube.com/watch?v=6C4KfuW2q8Y)
+[5](https://www.youtube.com/watch?v=ZoZcBgRR9ns)
 
 
 
