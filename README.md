@@ -46,20 +46,42 @@ men om man sätter t.ex en box collider på spelaren och väggen så krockar dom
 
 # Visual Studio
 
+Man brukar skriva koden till unity med Visual Studio. 
 
+[1](https://www.youtube.com/watch?v=dwcT-Dch0bA)
+[2](https://www.youtube.com/watch?v=5AOp8zFu4Vg)
+[3](https://www.youtube.com/watch?v=nbbIesdfCSI)
+[4](https://www.youtube.com/watch?v=KiVL5rfVdTw)
+[5](https://www.youtube.com/watch?v=CieCJ2mNTXE)
 
 
 
 
 # Unity Tutorials
 
+När man börjar använda unity kommer man behöva hjälp och ett bra sätt är med hjälp av tutorials t.ex på youtube. 
 
+[1](https://www.youtube.com/watch?v=hkaysu1Z-N8)
+[2](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+[3](https://www.youtube.com/watch?v=E6A4WvsDeLE)
+[4](https://www.youtube.com/watch?v=286SGzpUx9o)
+[5](https://www.youtube.com/watch?v=7iYWpzL9GkM)
 
 
 
 
 
 # Rigidbody
+
+Rigidbody och Rigidbody 2d används för att få fysiker för ett objekt i unity. Det betyder att om t.ex spelaren är i luften faller den ner. 
+Utan rigidbody skulle spelaren fortsätta flyga. 
+
+[](https://www.youtube.com/watch?v=WTGcs10Sj34)
+[](https://www.youtube.com/watch?v=ixM2W2tPn6c)
+[](https://docs.unity3d.com/ScriptReference/Rigidbody.html)
+[](https://en.wikipedia.org/wiki/Rigid_body)
+[](https://www.tech-recipes.com/game-engine/how-to-add-rigidbody-to-a-gameobject-in-unity-3d-game-development/)
+
 
 
 
@@ -68,3 +90,12 @@ men om man sätter t.ex en box collider på spelaren och väggen så krockar dom
 
 
 # C#
+
+Som programmerings språk används c# i unity. Med hjälp av c# kan man göra nästan vad som helst få spelaren att flytta på sig, kameran att följa efter
+och mycket annat. 
+
+[]()
+[]()
+[]()
+[]()
+[]()
