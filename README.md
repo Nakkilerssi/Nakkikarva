@@ -76,11 +76,11 @@ När man börjar använda unity kommer man behöva hjälp och ett bra sätt är 
 Rigidbody och Rigidbody 2d används för att få fysiker för ett objekt i unity. Det betyder att om t.ex spelaren är i luften faller den ner. 
 Utan rigidbody skulle spelaren fortsätta flyga. 
 
-[](https://www.youtube.com/watch?v=WTGcs10Sj34)
-[](https://www.youtube.com/watch?v=ixM2W2tPn6c)
-[](https://docs.unity3d.com/ScriptReference/Rigidbody.html)
-[](https://en.wikipedia.org/wiki/Rigid_body)
-[](https://www.tech-recipes.com/game-engine/how-to-add-rigidbody-to-a-gameobject-in-unity-3d-game-development/)
+[1](https://www.youtube.com/watch?v=WTGcs10Sj34)
+[2](https://www.youtube.com/watch?v=ixM2W2tPn6c)
+[3](https://docs.unity3d.com/ScriptReference/Rigidbody.html)
+[4](https://en.wikipedia.org/wiki/Rigid_body)
+[5](https://www.tech-recipes.com/game-engine/how-to-add-rigidbody-to-a-gameobject-in-unity-3d-game-development/)
 
 
 
@@ -94,8 +94,22 @@ Utan rigidbody skulle spelaren fortsätta flyga.
 Som programmerings språk används c# i unity. Med hjälp av c# kan man göra nästan vad som helst få spelaren att flytta på sig, kameran att följa efter
 och mycket annat. 
 
-[]()
-[]()
-[]()
-[]()
-[]()
+[1](https://www.w3schools.com/cs/index.php)
+[2](https://fi.wikipedia.org/wiki/C_sharp)
+[3](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+[4](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[5](https://www.youtube.com/watch?v=ravLFzIguCM)
+
+
+
+# Animationer
+
+Det är viktigt när man lagar ett spel att ha animationer på spelaren, träd och allt som är i liv.
+Och som tur har unity sin egen animation editor man kan använda men den kan vara svår till början att använda
+
+[1](https://docs.unity3d.com/Manual/AnimationSection.html)
+[2](https://www.youtube.com/watch?v=sgHicuJAu3g)
+[3](https://learn.unity.com/tutorial/controlling-animation)
+[4](https://itnext.io/basics-of-3d-animation-in-unity-tutorial-d2d6ff3bc6b7)
+[5](https://github.com/Unity-Technologies/Unity.Animation.Samples)
+
