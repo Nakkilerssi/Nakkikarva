@@ -27,3 +27,27 @@ Länkar för unitys sidor
 [3](https://unity.com/solutions)
 [4](https://unity.com/learn)
 [5](https://unity.com/support-services)
+
+
+# Colliders
+
+
+
+
+
+
+# Visual Studio
+
+
+
+
+
+
+# Unity Tutorials
+
+
+
+
+
+
+
